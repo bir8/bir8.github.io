@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "qi.tanoma.taslim",
+      "sha256_cert_fingerprints": [
+        "6F:05:73:91:C6:CB:20:B3:38:9D:F2:E0:43:E2:91:B6:A9:3F:7E:40:35:0A:25:64:AF:D7:67:2D:AD:6C:45:C3"
+      ]
+    }
+  }
+]
